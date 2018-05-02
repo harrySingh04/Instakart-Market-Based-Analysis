@@ -17,3 +17,4 @@ The objective of this project is to apply the data science techniques and princi
 The dataset for this project was taken from kaggle. The data set contains transactions data set that contains a set of orders and the list of products in each order with a flag specifying if a particular item in that order was a re-order or the first order.
 
 
+
